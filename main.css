@@ -1,0 +1,21 @@
+body {
+  background-color: white
+  color: orange;
+}
+
+h1 {
+  text-decoration: none;
+}
+
+.section-1{
+    background-color: hotpink;
+    font-size: 20px;
+}
+
+h2 {
+  text-decoration: none;
+}
+.image-1 {
+  height: auto;
+  width: 100px;
+}
