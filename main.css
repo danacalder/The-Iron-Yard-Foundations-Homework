@@ -4,18 +4,43 @@ body {
 }
 
 h1 {
-  text-decoration: none;
+  text-decoration: white;
 }
 
 .section-1{
-    background-color: hotpink;
-    font-size: 20px;
+    background-color: orangered;
+    font-size: 10px;
 }
 
 h2 {
   text-decoration: none;
 }
 .image-1 {
-  height: auto;
-  width: 100px;
+  height: 180px;
+  width: 280px;
+}
+
+.image-2 {
+  height: 20px;
+  width: 40px;
+}
+
+h3 {
+  text-decoration: white;
+}
+.section-3{
+    background-color: orangered;
+    font-size: 10px;
+}
+.image-3 {
+  height: 180px;
+  width: 200px;
+}
+.image-4 {
+  height: 180px;
+  width: 200px
+}
+.image-5 {
+  height: 180px;
+  width: 200px;
 }
