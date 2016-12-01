@@ -1,0 +1,21 @@
+h1{
+  background-color: #343e3d;
+  color: #cfffe4;
+  width: 600px;
+  height: 100px;
+  margin: 0;
+}
+body{
+  color: #28261c;
+  font-family: arial;
+  letter-spacing: 2px;
+}
+.section-1 {
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+header{
+  text-align: center;
+  margin: -3px;
+  border-bottom: 60px #617466;
+}
