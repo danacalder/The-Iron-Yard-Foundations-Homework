@@ -1,0 +1,44 @@
+.nav-1 {
+display: inline-block;
+color: orange;
+}
+.nav-2 {
+  color: orange;
+  float:right;
+}
+.shoe-1 {
+  height: 150px;
+  width:auto;
+  background-color: orangered;
+}
+.section-2 {
+  text-align: right;
+}
+h1 {
+  text-align: right;
+}
+.shoe-2 {
+  display:inline;
+  height: 100px;
+  width: auto;
+  background-color: orangered;
+}
+.shoe-3 {
+  display: inline;
+  height: 100px;
+  width: auto;
+  background-color: orangered;
+}
+.shoe-4 {
+  display: inline;
+  height: 100px;
+  width: auto;
+  background-color: orangered;
+}
+.footer-1 {
+display: inline-block;
+color: orange;
+}
+.footer-2 {
+  color: orange;
+  float:right;

@@ -24,8 +24,8 @@ h2 {
     font-size: 16px;
   }
 .image-1 {
-  height: 150px;
-  width: 280px;
+  height: 20px;
+  width: auto;;
 }
 
 .image-2 {
@@ -43,16 +43,32 @@ h3 {
 }
 .image-3 {
   height: 100px;
-  width: 180px;
+  width: auto;
 }
 .image-4 {
   height: 100px;
-  width: 180px
+  width: auto;
+  display: block;
 }
 .image-5 {
   height: 100px;
-  width: 180px;
+  width: auto;
+  display: block;
+}
+.image-6 {
+  height: 100px;
+  width: auto;
+  display: block;
 }
 p{
   line-height: 20px
+}
+.nav-1 {
+display: inline-block;
+color: orange;
+}
+
+.nav-2 {
+  color: orange;
+  float:right;
 }
