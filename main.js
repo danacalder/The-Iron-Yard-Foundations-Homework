@@ -24,11 +24,11 @@ var low  = 10;
 
 var math = high - low;
 // Q: What is `math` set to?
-// A: high - low;
+// A: 40
 
 math = high - "5";
 // Q: What is `math` set to?
-// A: high - "5";
+// A: 45
 
 
 // Using the `high` & `low` Variables, work through each of the 4 math operators below and log the answers to the console.
