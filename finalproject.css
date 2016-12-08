@@ -121,3 +121,10 @@ h7 {
   display: inline-block;
 
 }
+.button-container {
+  border: 2px solid black;
+  display: inline-block;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: white;
+}
